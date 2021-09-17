@@ -1,16 +1,10 @@
-# ngx-lazy-el
+# seo-manager-lazy
 
-[![npm version](https://badge.fury.io/js/%40juristr%2Fngx-lazy-el.svg)](https://badge.fury.io/js/%40juristr%2Fngx-lazy-el)
-
-Easy lazy loading components 💪 by Angular Elements.
+Easy lazy loading components for SEO by Angular Elements.
 
 ## How to use it
 
-Also check out my talks about using this library
-
-- [ngRome 2019 - Lazy Loading on Steroids (with Angular Elements)](https://youtu.be/weVK53N-x-8)
-- [JSBE.io - Lazy Loading on Steroids with NG Elements](https://youtu.be/-YdM-1xZBoI)
-
+See how use this library.
 
 ### Install Angular Elements on your project
 
@@ -25,14 +19,9 @@ $ ng add @angular/elements
 Install the library from npm.
 
 ```
-$ npm install @juristr/ngx-lazy-el
+$ npm install seo-manager-lazy
 ```
 
-or
-
-```
-$ yarn add @juristr/ngx-lazy-el
-```
 
 ### Lazy load a component
 
@@ -106,4 +95,4 @@ If it is behind a `*ngIf` or other non-visible component, the `app-hello-world` 
 
 ## Questions?
 
-Open an [issue](https://github.com/juristr/ngx-lazy-el/issues) or ping me [on Twitter](https://twitter.com/juristr).
+Open an [issue](https://github.com/vulgodizz/ngx-lazy-el).
